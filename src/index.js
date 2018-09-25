@@ -1,4 +1,8 @@
 console.log('Hello world');
 
 
-console.log('Second Hello for feature 2!');
+var object = {name: 'Yaqui'};
+
+console.log('Second Hello for feature 2!', object);
+
+console.log('terer console log');
